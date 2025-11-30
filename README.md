@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- full profile heatmap (works in any repo) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/Ripon1052">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/Ripon1052">
+  <img alt="contribution graph" src="https://ghchart.rshah.org/Ripon1052">
+</picture>
