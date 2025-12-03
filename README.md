@@ -10,7 +10,7 @@ I’m passionate about **Web Development, Java, PHP, Python, C, and DSA** — an
 
 ---
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ripon1052/Ripon1052/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ripon1052/Ripon1052/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ripon1052/Ripon1052/output/pacman-contribution-graph.svg">
@@ -19,7 +19,6 @@ I’m passionate about **Web Development, Java, PHP, Python, C, and DSA** — an
 ###
 
 ---
--->
 
 ## 🔥 About Me
 - 🎓 BCA 5th Semester Student  
