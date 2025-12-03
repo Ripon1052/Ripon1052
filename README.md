@@ -1,5 +1,4 @@
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 
 # 👋 Hi, I'm Supriya!
 
@@ -76,7 +75,7 @@ I’m passionate about **Web Development, Java, PHP, Python, C, and DSA** — an
 - Backend Development  
 - Database Design  
 - Problem Solving  
-- Writing Clean & Simple Code  
+- Writing Clean Code  
 
 ---
 
