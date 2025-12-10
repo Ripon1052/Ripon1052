@@ -29,6 +29,18 @@ I’m passionate about **Web Development, Java, PHP, Python, C, and DSA** — an
 
 ---
 
+### 📛 **Badges & Certifications**
+
+<p align="left">
+
+<!-- AWS -->
+<a href="https://www.credly.com/badges/46757600-7733-4ecd-a4cb-522be8fe46d9/public_url" target="_blank">
+<img src="aws-academy-graduate-cloud-foundations-training-badge.png" alt="AWS Cloud Badge" width="100" />
+</a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 
